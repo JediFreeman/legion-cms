@@ -1,0 +1,4 @@
+legion-cms
+==========
+
+A simple CMS / Publishing system designed to easily deploy multiple sites to a variety of targets, including static content and distributed cloud servers (such as AWS). Extendable to add your own deployment methods/targets as well.
